@@ -39,13 +39,24 @@ body
 	line-height: 75px;
 	background:#00C6EE;
 	color: white;
-	text-align: center;
-	width: 385px;
+	width: 70%;
 	height: 80px;
 	margin-bottom: 20px;
-	float: left;
 	text-transform: uppercase;
+	
+	text-align:center;
+
+	margin: auto;
+
 }
+
+
+.principal{
+	width: 65%;
+	float left;
+}
+
+
 
 /*Aquí empiezo con el menú*/
 #menu
@@ -121,19 +132,23 @@ body
 
 
 aside{
-	margin-top: -330px;
+	margin-top: -320px;
 	margin-left: 20px;
 	float: right;
-	width: 30%;
+	width: 29%;
     margin-right: 50px;
 }
 
 img-aside{
-	display:relative;
+	display:block;
 	margin:auto;
 }
 
-
+.centro{
+	margin:auto;
+	text-align:center;
+	width: 95%;
+}
 
 
 
