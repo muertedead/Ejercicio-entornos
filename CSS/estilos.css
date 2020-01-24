@@ -11,6 +11,25 @@
 	float: none;
 	clear: both;
 }
+
+.resizz{
+	resize: none;
+	width: 100%;
+	height: 200%;
+}
+
+.upcenter{
+	box-sizing: border-box;
+	font-family: :Verdana, Arial;
+	font-size:auto;
+	background:#00C6EE;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	width: 100%;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
 /*------------------*/
 
 body
